@@ -15,6 +15,7 @@
 
 추가적인 내용은 노션을 통해 확인하시기 바랍니다. 시간은 매주 수요일 18:00 - 21:00 입니다.
 <br/>
+<br/>
 
 ### 2. 세미나 커리큘럼
 
@@ -36,6 +37,8 @@
 | 9th Dec, 2020 | 7 | [Lecture 14 – Transformers and Self-Attention]() | 정주원 | [Slide]() | [Video]()
 | 16th Dec, 2020 | 8 | [Lecture 15 – Natural Language Generation]() | 김민정 | [Slide]() | [Video]()
 | 16th Dec, 2020 | 8 | [Lecture 18 – Constituency Parsing, TreeRNNs]() | 정민준 | [Slide]() | [Video]()
+
+<br/>
 
 ### 3. 세미나 규칙 안내
 
@@ -63,6 +66,7 @@
     ✔️**강의에는 없지만 추가적으로 공유하고 싶은 내용**
     3. 준비한 질문은 세미나 전까지 Notion 질문 페이지에 올릴 것
     ⇒ 위 질문거리를 준비하지 않았을 시, 기존 과제 미제출 상황과 동일한 벌금 부과
+<br/>
 
 ### 4. 저장소 사용 규칙
 
