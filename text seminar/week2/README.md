@@ -1,1 +1,4 @@
-N 주차 강의자료 입니다. 여기는 강의자분께서 원하시는대로 수정, 작성해주시면 됩니다.
+# week2
+### 2020.11.04
+* Lecture 3 – Word Window Classification, Neural Networks, and Matrix Calculus
+* Lecture 4 – Backpropagation and Computation Graphs
