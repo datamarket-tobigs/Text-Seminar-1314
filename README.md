@@ -23,7 +23,7 @@
 | 28th Oct, 2020 | 1  | [Lecture 1 – Introduction and Word Vectors]() | 조혜원 | [Slide]() | [Video]()
 | 28th Oct, 2020 | 1 | [Lecture 2 – Word Vectors and Word Senses]() | 이혜린 | [Slide]() | [Video]()
 | 4th Nov, 2020 | 2 | [Lecture 3 – Word Window Classification, Neural Networks, and Matrix Calculus]() | 고경태 | [Slide]() | [Video]()
-| 4th Nov, 2020 | 2 | [Lecture 4 – Backpropagation and Computation Graphs]() | 이재빈 | [Slide]() | [Video]()
+| 4th Nov, 2020 | 2 | [Lecture 4 – Backpropagation and Computation Graphs]() | 이재빈 | [Slide](https://github.com/Tobigs-team/Text-Seminar/blob/master/text%20seminar/week2/CS224n_Lecture4.pdf) | [Video]()
 | 11th Nov, 2020 | 3 | [Lecture 5 – Linguistic Structure: Dependency Parsing]() | 오진석 | [Slide]() | [Video]()
 | 11th Nov, 2020 | 3 | [Lecture 6 – Language Models and RNNs]() | 김민정 | [Slide]() | [Video]()
 | 18th Nov, 2020 | 4 | [Lecture 7 – Vanishing Gradients, Fancy RNNs]() | 최혜빈 | [Slide]() | [Video]()
