@@ -15,7 +15,7 @@
 
 추가적인 내용은 노션을 통해 확인하시기 바랍니다. 시간은 매주 수요일 18:00 - 21:00 입니다.
 
-과제물을 확인하고 싶으면 [assignment](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment) 소개를 참고해주세요.
+**과제물**을 확인하려면 [assignment](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment) 를 참고해주세요.
 <br/>
 <br/>
 
