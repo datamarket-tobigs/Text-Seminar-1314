@@ -1,6 +1,6 @@
 # week3
   
-### Lecture3. Dependency Parsing (강의자 : 오진석)  
+### Lecture5. Dependency Parsing (강의자 : 오진석)  
 * Syntatic Structure : Consistuency and Dependency 
 * Dependency Grammar and Treebanks
 * Transition-based Dependency Parsing
