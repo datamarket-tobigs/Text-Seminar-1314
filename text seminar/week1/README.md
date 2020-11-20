@@ -1,1 +1,12 @@
-N 주차 강의자료 입니다. 여기는 강의자분께서 원하시는대로 수정, 작성해주시면 됩니다.
+# CS224n week1  
+  
+### Lecture1. Introduction and Word Vectors (강의자 : 조혜원)  
+* How to represent Words' Meaning  
+* Word2vec  
+* Optimization    
+  
+### Lecture2. Word Vectors and Word Senses (강의자 : 이혜린)  
+* Details of Word2vec  
+* Co-occurrence Matrix  
+* Glove  
+* Evaluation  
