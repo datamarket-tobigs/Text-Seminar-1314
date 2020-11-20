@@ -1,4 +1,4 @@
-# Week1  
+# CS224n Week1  
   
 ### Lecture1.  
   
