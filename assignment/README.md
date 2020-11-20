@@ -34,7 +34,7 @@ analyzing a few erroneous dependency parses.
 
 ## [4. Assignment 4](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a4.pdf)
 ### 소개
-This assignment is split into two sections: Neural Machine Translation with RNNs and Analyzing NMT
+- This assignment is split into two sections: Neural Machine Translation with RNNs and Analyzing NMT
 Systems. The first is primarily coding and implementation focused, whereas the second entirely consists
 of written, analysis questions. If you get stuck on the first section, you can always work on the second.
 That being said, the NMT system is more complicated than the neural networks we have previously constructed within this class and takes about 4 hours to train on a GPU. Thus, we strongly recommend you
