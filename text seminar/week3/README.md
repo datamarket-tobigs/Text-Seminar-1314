@@ -1,1 +1,15 @@
-N 주차 강의자료 입니다. 여기는 강의자분께서 원하시는대로 수정, 작성해주시면 됩니다.
+# week3
+  
+### Lecture3. Dependency Parsing (강의자 : 오진석)  
+* Syntatic Structure : Consistuency and Dependency 
+* Dependency Grammar and Treebanks
+* Transition-based Dependency Parsing
+* Neural Dependency Parsing 
+
+
+### Lecture6. Language Models and Recurrent Neural Networks (강의자 : 김민정)  
+* Language Modeling 
+* N-gram Language Model 
+* Neural Language Model 
+* RNN Language Model 
+* Perplexity 
