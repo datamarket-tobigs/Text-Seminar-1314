@@ -1,4 +1,4 @@
-# CS224n week1  
+# week1  
   
 ### Lecture1. Introduction and Word Vectors (강의자 : 조혜원)  
 * How to represent Words' Meaning  
