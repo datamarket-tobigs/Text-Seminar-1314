@@ -1,4 +1,6 @@
-# Tobigs. Text Seminar (2020) 13 & 14
+# *Tobigs Text Seminar 2020, 13 & 14*
+---------------
+
 ### 1. 세미나 소개
 
  모두 10주 간 세션 듣느라 (과제 하시느라) 고생 많으셨습니다! 😬 
@@ -74,3 +76,25 @@
   - 강의자는 자신이 할당된 주차, 강의에 맞게 자료를 업로드 해주셔야 합니다.
   - 사전 충돌을 방지하기 위해서 **Pull requests**를 받도록 하겠습니다. 강의자분은 레포를 **fork**하여 로컬 레포에서 작업 후 **Pull requests**를 보내주시면 감사하겠습니다.(이 부분이 어렵다면 깃 강의자에게 문의주세요.)
   - 강의자가 **Pull requests**에 담아야할 작업(메인 리드미에 Slide link 채우기, 강의자료 업로드 및 해당 주차 markdown 작성, 기타..)
+
+- 저장소 구조
+
+```
+Text-Seminar
+├── assignment # for assignment
+│   ├── assignment1
+│   ├── assignment2
+│   ├── assignment3
+│   └── assignment4
+├── text seminar # for lecture files
+│   ├── week1
+│   ├── week2
+│   ├── week3
+│   ├── week4
+│   ├── week5
+│   ├── week6
+│   └── week7
+├── LICENSE
+├── .gitignore
+└── README.md
+```
