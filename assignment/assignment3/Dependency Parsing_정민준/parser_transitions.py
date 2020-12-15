@@ -7,6 +7,7 @@ Sahil Chopra <schopra8@stanford.edu>
 """
 
 import sys
+from copy import deepcopy
 
 class PartialParse(object):
     def __init__(self, sentence):
@@ -31,6 +32,10 @@ class PartialParse(object):
         ### Note: The root token should be represented with the string "ROOT"
         ###
 
+        ### MY CODE
+        self.stack = ['ROOT']
+        self.buffer = deepcopy(sentence)
+        self.dependencies = []
 
         ### END YOUR CODE
 
@@ -50,7 +55,16 @@ class PartialParse(object):
         ###         2. Left Arc
         ###         3. Right Arc
 
-
+        ###MY CODE
+        if transition == 'S': # Shift
+            if len(self.buffer) > 0:
+                self.stack.append(self.buffer.pop(0))
+        elif transition == 'LA': # Left Arc
+            if len(self.stack) > 1:
+                self.dependencies.append((self.stack[-1], self.stack.pop(-2)))
+        elif transition == 'RA': # Right Arc
+            if len(self.stack) > 1:
+                self.dependencies.append((self.stack[-2], self.stack.pop(-1)))
         ### END YOUR CODE
 
     def parse(self, transitions):
@@ -65,6 +79,9 @@ class PartialParse(object):
         for transition in transitions:
             self.parse_step(transition)
         return self.dependencies
+
+    def is_parsed(self):
+        return len(self.stack) == 1 and len(self.buffer) == 0
 
 
 def minibatch_parse(sentences, model, batch_size):
@@ -102,9 +119,20 @@ def minibatch_parse(sentences, model, batch_size):
     ###             is being accessed by `partial_parses` and may cause your code to crash.
 
 
+    ### MY CODE
+    partial_parses = [PartialParse(sentence) for sentence in sentences]
+    unfinished_parses = partial_parses[:]
+    while len(unfinished_parses) > 0:
+        mini_batch = unfinished_parses[:batch_size]
+        for parser, parser_next_step in zip(mini_batch, model.predict(mini_batch)):
+            parser.parse_step(parser_next_step)
+            if parser.is_parsed():
+                unfinished_parses.remove(parser)
+    dependencies = [parser.dependencies for parser in partial_parses]
+    return dependencies
+
     ### END YOUR CODE
 
-    return dependencies
 
 
 def test_step(name, transition, stack, buf, deps,
