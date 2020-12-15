@@ -17,7 +17,6 @@
 
 **과제물**을 확인하려면 [assignment](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment) 를 참고해주세요.
 <br/>
-<br/>
 
 ### 2. 세미나 커리큘럼
 
@@ -33,13 +32,12 @@
 | 18th Nov, 2020 | 4 | [Lecture 8 – Translation, Seq2Seq, Attention]() | 고경태 | [Slide]() | [Video]()
 | 25th Nov, 2020 | 5 | [Lecture 9 – Practical Tips for Projects]() | 민거홍 | [Slide]() | [Video]()
 | 25th Nov, 2020 | 5 | [Lecture 10 – Question Answering]() | 김미성 | [Slide]() | [Video]()
-| 2th Dec, 2020 | 6 | [Lecture 11 – Convolutional Networks for NLP]() | 이예진 | [Slide]() | [Video]()
-| 2th Dec, 2020 | 6 | [Lecture 12 – Subword Models]() | 장예은 | [Slide]() | [Video]()
-| 9th Dec, 2020 | 7 | [Lecture 13 – Contextual Word Embeddings]() | 오진석 | [Slide]() | [Video]()
-| 9th Dec, 2020 | 7 | [Lecture 14 – Transformers and Self-Attention]() | 정주원 | [Slide]() | [Video]()
-| 16th Dec, 2020 | 8 | [Lecture 15 – Natural Language Generation]() | 김민정 | [Slide]() | [Video]()
-| 16th Dec, 2020 | 8 | [Lecture 18 – Constituency Parsing, TreeRNNs]() | 정민준 | [Slide]() | [Video]()
-
+| 16th Dec, 2020 | 6 | [Lecture 11 – Convolutional Networks for NLP]() | 이예진 | [Slide]() | [Video]()
+| 16th Dec, 2020 | 6 | [Lecture 12 – Subword Models]() | 장예은 | [Slide]() | [Video]()
+| 16th Dec, 2020 | 6 | [Lecture 13 – Contextual Word Embeddings]() | 오진석 | [Slide]() | [Video]()
+| 23th Dec, 2020 | 7 | [Lecture 14 – Transformers and Self-Attention]() | 정주원 | [Slide]() | [Video]()
+| 23th Dec, 2020 | 7 | [Lecture 15 – Natural Language Generation]() | 김민정 | [Slide]() | [Video]()
+| 23th Dec, 2020 | 7 | [Lecture 18 – Constituency Parsing, TreeRNNs]() | 정민준 | [Slide]() | [Video]()
 <br/>
 
 ### 3. 세미나 규칙 안내
