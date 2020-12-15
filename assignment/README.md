@@ -1,4 +1,5 @@
-# Tobigs Text Seminar(2020, 13&14) assignment
+# CS224N assignment
+---------------
  투빅스 텍스트 세미나 CS224N 과제파일 입니다. 과제 커리큘럼은 [CS224N](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule) 스케줄에서 확인할 수 있으며 아래에도 링크가 첨부되어 있습니다. 
 <br/>
 
