@@ -1,7 +1,9 @@
 # Tobigs Text Seminar(2020, 13&14) assignment
-투빅스 텍스트 세미나 CS224N 과제파일 입니다. 과제 커리큘럼은 [CS224N](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule) 스케줄에서 확인할 수 있으며 아래에도 링크가 첨부되어 있습니다.
-<br/><br/>
+ 투빅스 텍스트 세미나 CS224N 과제파일 입니다. 과제 커리큘럼은 [CS224N](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule) 스케줄에서 확인할 수 있으며 아래에도 링크가 첨부되어 있습니다. 
+<br/>
 
+# Introduction
+---------------
 ## [1. Assignment 1: Exploring Word Vectors](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1_preview/exploring_word_vectors.html)
 ### 소개
 - Welcome to CS224N! We'll be using Python throughout the course. If you've got a good Python setup already, great! But make sure that it is at least Python version 3.5. If not, the easiest thing to do is to make sure you have at least 3GB free on your computer and then to head over to (https://www.anaconda.com/download/) and install the Python 3 version of Anaconda. It will work on any operating system. 
@@ -17,12 +19,12 @@ conda install gensim
   
 ### 과제
 - [assignment1](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment/assignment1)에서 확인하실 수 있습니다.
-<br/><br/>
+<br/>
 
 ## [2. Assignment 2: word2vec](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.pdf)
 ### 과제
 - [assignment2](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment/assignment2)에서 확인하실 수 있습니다.
-<br/><br/>
+<br/>
 
 ## [3. Assignment 3: Dependency Parsing](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a3.pdf)
 ### 소개
@@ -33,7 +35,7 @@ analyzing a few erroneous dependency parses.
 
 ### 과제
 - [assignment3](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment/assignment3)에서 확인하실 수 있습니다.
-<br/><br/>
+<br/>
 
 ## [4. Assignment 4](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a4.pdf)
 ### 소개
