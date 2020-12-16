@@ -18,15 +18,43 @@ conda install gensim
 - Homework 1 (only) is a Jupyter Notebook. With the above done you should be able to get underway by typing:
 
   > jupyter notebook exploring_word_vectors.ipynb
-  
+
+
+- making reduced-dimensionality co-occurrence representation
+<p align="center">
+<img src="https://github.com/mrsalehi/CS224n-Assignments/blob/master/figures/svd.jpg?raw=true" alt="drawing" width="400"/>
+</p>
+
+- word2vec embedding
+<p align="center">
+<img src="https://github.com/mrsalehi/CS224n-Assignments/blob/master/figures/analogy.jpg?raw=true" alt="drawing" width="400"/>
+</p>
+
+
+
 #### 과제
 - [assignment1](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment/assignment1)에서 확인하실 수 있습니다.
 <br/>
 
+
+
+
+
 ### [2. Assignment 2: word2vec](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.pdf)
+#### 소개 
+- Implement Skip-gram model 
+<p align="center">
+<img src="https://github.com/mrsalehi/CS224n-Assignments/blob/master/figures/word2vec.jpg?raw=true" alt="drawing" width="500"/>
+</p>
+
+
 #### 과제
 - [assignment2](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment/assignment2)에서 확인하실 수 있습니다.
 <br/>
+
+
+
+
 
 ### [3. Assignment 3: Dependency Parsing](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a3.pdf)
 #### 소개
@@ -35,9 +63,18 @@ about two general neural network techniques (Adam Optimization and Dropout) that
 the dependency parser in Part 2. In Part 2, you will implement and train the dependency parser, before
 analyzing a few erroneous dependency parses.
 
+<p align="center">
+<img src="https://github.com/mrsalehi/CS224n-Assignments/blob/master/figures/dependency-parsing.jpg?raw=true" alt="drawing" width="600"/>
+</p>
+
+
 #### 과제
 - [assignment3](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment/assignment3)에서 확인하실 수 있습니다.
 <br/>
+
+
+
+
 
 ### [4. Assignment 4](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a4.pdf)
 #### 소개
@@ -47,6 +84,11 @@ of written, analysis questions. If you get stuck on the first section, you can a
 That being said, the NMT system is more complicated than the neural networks we have previously constructed within this class and takes about 4 hours to train on a GPU. Thus, we strongly recommend you
 get started early with this assignment. Finally, the notation and implementation of the NMT system is a
 bit tricky, so if you ever get stuck along the way, please come to Office Hours so that the TAs can support you.
+
+<p align="center">
+<img src="https://github.com/mrsalehi/CS224n-Assignments/blob/master/figures/nmt.jpg?raw=true" alt="drawing" width="450"/>
+</p>
+
 
 #### 과제
 - [assignment4](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment/assignment4)에서 확인하실 수 있습니다.
