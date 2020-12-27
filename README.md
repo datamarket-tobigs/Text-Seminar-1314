@@ -17,7 +17,7 @@
 
 추가적인 내용은 노션을 통해 확인하시기 바랍니다. 시간은 매주 수요일 18:00 - 21:00 입니다.
 
-**과제물**을 확인하려면 [assignment](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment) 를 참고해주세요.
+**세미나 강의자료**와 **CS224n 강의영상**은 아래 커리큘럼에 링크가 첨부되어 있습니다. **과제물**을 확인하려면 [assignment](https://github.com/Tobigs-team/Text-Seminar/tree/master/assignment) 를 참고해주세요.
 <br/>
 
 ### 2. 세미나 커리큘럼
