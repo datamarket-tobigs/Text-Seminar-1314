@@ -81,12 +81,12 @@
 
 ```
 Text-Seminar
-├── assignment # for assignment
+├── Assignment # for assignment
 │   ├── assignment1
 │   ├── assignment2
 │   ├── assignment3
 │   └── assignment4
-├── text seminar # for lecture files
+├── Slides # for lecture files
 │   ├── week1
 │   ├── week2
 │   ├── week3
