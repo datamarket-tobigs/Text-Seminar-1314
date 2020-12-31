@@ -1,4 +1,4 @@
-# *Tobigs Text Seminar 2020, 13 & 14* ![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@tobigs-text1314)
+# *Tobigs Text Seminar 2020, 13 & 14*  [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@tobigs-text1314)](https://velog.io/@tobigs-text1314)
 ---------------
 ### 1. 세미나 소개
 
