@@ -24,7 +24,7 @@
 
 |       Date       | Week | Topic | Presenters | Slides | Videos |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|:------:
-| 28th Oct, 2020 | 1  | Lecture 1 – Introduction and Word Vectors | 조혜원 | [Slide](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week1/CS224n_Lecture1.pdf) | [Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&ab_channel=stanfordonline)
+| 28th Oct, 2020 | 1 | Lecture 1 – Introduction and Word Vectors | 조혜원 | [Slide](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week1/CS224n_Lecture1.pdf) | [Video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&ab_channel=stanfordonline)
 | 28th Oct, 2020 | 1 | Lecture 2 – Word Vectors and Word Senses | 이혜린 | [Slide](https://github.com/Tobigs-team/blob/master/Slides/week1/CS224n_Lecture2.pdf) | [Video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&ab_channel=stanfordonline)
 | 4th Nov, 2020 | 2 | Lecture 3 – Word Window Classification, Neural Networks, and Matrix Calculus | 고경태 | [Slide](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week2/CS224N_lecture3.pdf) | [Video](https://www.youtube.com/watch?v=8CWyBNX6eDo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3&ab_channel=stanfordonline)
 | 4th Nov, 2020 | 2 | Lecture 4 – Backpropagation and Computation Graphs | 이재빈 | [Slide](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week2/CS224n_Lecture4.pdf) | [Video](https://www.youtube.com/watch?v=yLYHDSv-288&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4&ab_channel=stanfordonline)
